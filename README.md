@@ -166,6 +166,10 @@ LinkedIn: [Ahmed Abd Elhay](https://www.linkedin.com/in/ahmed-abd-elhay-b2811b3a
 Email: semsemaa10a@gmail.com  
 LinkedIn: [Sama Hussien](https://www.linkedin.com/in/sama-hussien-2b8384389)
 
+**Yousef Tamer**  
+Email: youseftameryousef123@gmail.com  
+LinkedIn: [Yousef Tamer](https://www.linkedin.com/in/yousef-tamer-5ab124357)
+
 ---
 
 ## Contributions & Support
