@@ -153,6 +153,9 @@ pip install -r requirements.txt
 ---
 
 ## Contact Information
+*Yousef Tamer*  
+Email: youseftameryousef123@gmail.com  
+LinkedIn: [Yousef Tamer](https://www.linkedin.com/in/yousef-tamer-5ab124357)
 
 **Hoda Ashraf**  
 Email: hodhodashraf168@gmail.com  
