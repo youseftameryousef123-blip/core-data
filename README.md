@@ -1,4 +1,4 @@
-تمام، خليني أظبطلك الـ README بشكل منسق أكتر بحيث يبقى مفصول ومريح للقراءة والنسخ:
+:
 
 Project Title
 Real Estate Price Analysis: Trends, Value, and Market Insights
