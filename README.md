@@ -1,7 +1,10 @@
+تمام، خليني أظبطلك الـ README بشكل منسق أكتر بحيث يبقى مفصول ومريح للقراءة والنسخ:
+
 Project Title
-Uncovering Real Estate Price Dynamics: Effort, Value, and Market Trends
+Real Estate Price Analysis: Trends, Value, and Market Insights
+
 Executive Summary
-This project applies Data Analysis and Business Intelligence techniques to explore the factors influencing real estate prices and their alignment with buyer expectations and market trends. Despite significant investment in property search, negotiation, and financing, many buyers and sellers fail to achieve proportional outcomes. Using survey data, public listings, and historical price records, the project identifies patterns in property features, location, and market awareness, highlighting where and why price gaps occur. The findings aim to support better decision-making for buyers, sellers, real estate agencies, and policymakers.
+This project applies Data Analysis and Business Intelligence techniques to explore the dynamics of real estate prices and their alignment with buyer expectations and market trends. Using property listings, surveys, and historical price records, the project identifies patterns in property features, location, and demand, highlighting where and why price gaps occur. The findings aim to support better decision-making for buyers, sellers, agencies, and policymakers.
 
 Table of Contents
 • 	Project Objectives
@@ -38,15 +41,15 @@ Technologies & Tools
 
 
 Methodology
-1. 	Data Collection & Preparation
+1. Data Collection & Preparation
 • 	Gather property listings and survey data
 • 	Clean and structure datasets
 • 	Handle missing values and outliers
-2. 	Data Analysis
+2. Data Analysis
 • 	Descriptive statistics to measure price distributions
 • 	Comparative analysis across neighborhoods and property types
 • 	Identification of awareness gaps in pricing trends
-3. 	Visualization & Insights
+3. Visualization & Insights
 • 	Dashboards showing price vs property features
 • 	Heatmaps of location-based price variations
 • 	Clear insights supported by data, not assumptions
@@ -84,6 +87,9 @@ Future Enhancements
 • 	Deeper segmentation by property type and buyer demographics
 • 	Longitudinal analysis over multiple years
 • 	Predictive modeling for future price trends
+
+.
+
 ---
 
 ## Contact Information
