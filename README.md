@@ -1,92 +1,85 @@
-:
-
 Project Title
 Real Estate Price Analysis: Trends, Value, and Market Insights
 
 Executive Summary
-This project applies Data Analysis and Business Intelligence techniques to explore the dynamics of real estate prices and their alignment with buyer expectations and market trends. Using property listings, surveys, and historical price records, the project identifies patterns in property features, location, and demand, highlighting where and why price gaps occur. The findings aim to support better decision-making for buyers, sellers, agencies, and policymakers.
-
-Table of Contents
-• 	Project Objectives
-• 	Dataset Overview
-• 	Technologies & Tools
-• 	Methodology
-• 	Key Performance Indicators (KPIs)
-• 	Project Timeline & Milestones
-• 	Deliverables
-• 	Roles & Responsibilities
-• 	Setup & Execution Guide
-• 	Future Enhancements
+This project uses Data Analysis and Business Intelligence to study real estate prices.
+It focuses on property features, location, and demand.
+The goal is to provide insights for buyers, sellers, and policymakers.
 
 Project Objectives
-• 	Analyze the mismatch between property features and actual market prices
-• 	Identify gaps in buyer/seller awareness of market trends
-• 	Examine alignment between property value and location-based demand
-• 	Provide data-driven insights to support real estate stakeholders
-• 	Present findings through clear and interactive dashboards
+• 	Study the gap between property features and actual prices
+• 	Identify awareness gaps in market trends
+• 	Compare property value with location demand
+• 	Provide clear insights with dashboards
 
 Dataset Overview
 Sources:
-• 	Public real estate listings (web scraping, APIs)
+• 	Public property listings
 • 	Government housing price indices
-• 	Surveys from buyers, sellers, and agents
-Key Attributes:
-• 	Property details (size, rooms, amenities, age)
-• 	Location indicators (city, neighborhood, proximity to services)
-• 	Price history (listing price, final sale price, negotiation outcomes)
-• 	Buyer/seller awareness of market trends
+• 	Surveys from buyers and sellers
+Attributes:
+• 	Property details (size, rooms, age, amenities)
+• 	Location (city, neighborhood, proximity to services)
+• 	Price history (listing vs final sale)
+• 	Buyer/seller awareness
 • 	Financing and affordability indicators
 
 Technologies & Tools
-
+• 	Data Collection: Python (web scraping, APIs)
+• 	Data Cleaning & Analysis: Excel, Pandas, NumPy
+• 	Visualization: Power BI, Tableau
+• 	Version Control: Git, GitHub
 
 Methodology
-1. Data Collection & Preparation
-• 	Gather property listings and survey data
-• 	Clean and structure datasets
-• 	Handle missing values and outliers
-2. Data Analysis
-• 	Descriptive statistics to measure price distributions
-• 	Comparative analysis across neighborhoods and property types
-• 	Identification of awareness gaps in pricing trends
-3. Visualization & Insights
-• 	Dashboards showing price vs property features
-• 	Heatmaps of location-based price variations
-• 	Clear insights supported by data, not assumptions
+1. 	Data Collection & Preparation
+• 	Gather property and survey data
+• 	Clean datasets
+• 	Handle missing values
+2. 	Data Analysis
+• 	Descriptive statistics
+• 	Compare neighborhoods and property types
+• 	Identify gaps in pricing awareness
+3. 	Visualization & Insights
+• 	Dashboards showing price vs features
+• 	Heatmaps for location-based prices
 
-Key Performance Indicators (KPIs)
-• 	Average property price per square meter
-• 	Price-to-income ratio by region
-• 	Awareness rate of market trends among buyers/sellers
-• 	Negotiation success rate (listing vs final sale price)
-• 	Demand alignment score (features vs buyer preferences)
+KPIs
+• 	Average price per square meter
+• 	Price-to-income ratio
+• 	Awareness rate of market trends
+• 	Negotiation success rate
+• 	Demand alignment score
 
-Project Timeline & Milestones
-
+Timeline
+• 	Phase 1: Data collection
+• 	Phase 2: Data cleaning & analysis
+• 	Phase 3: Dashboard creation
+• 	Phase 4: Final report
 
 Deliverables
-• 	Cleaned and structured dataset
-• 	Interactive Power BI dashboard
-• 	Data-driven insights and recommendations
-• 	Final analytical report
+• 	Clean dataset
+• 	Interactive dashboard
+• 	Insights & recommendations
+• 	Final report
 
-Roles & Responsibilities
-• 	Data Analyst: Data cleaning, analysis, and interpretation
-• 	BI Developer: Dashboard design and visualization
-• 	Research Lead: Survey design and framing market questions
-• 	Project Coordinator: Task management and documentation
+Roles
+• 	Data Analyst: Cleaning & analysis
+• 	BI Developer: Dashboard design
+• 	Research Lead: Survey design
+• 	Coordinator: Documentation
 
-Setup & Execution Guide
+Setup Guide
 1. 	Clone the repository
-2. 	Review dataset and documentation
-3. 	Open Power BI dashboard files
-4. 	Explore insights and findings
+2. 	Review dataset and docs
+3. 	Open Power BI dashboard
+4. 	Explore insights
 
 Future Enhancements
-• 	Expanding dataset to include international markets
-• 	Deeper segmentation by property type and buyer demographics
-• 	Longitudinal analysis over multiple years
-• 	Predictive modeling for future price trends
+• 	Add more markets
+• 	Segment by property type
+• 	Long-term trend analysis
+• 	Predictive modeling
+.
 
 .
 
