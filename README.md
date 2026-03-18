@@ -269,6 +269,10 @@ The analysis aims to support decisions such as:
 - Segmentation by property type (apartments, villas, studios)
 
 
+**Yousef Tamer**  
+Email: youseftameryousef123@gmail.com  
+LinkedIn: [Yousef Tamer](https://www.linkedin.com/in/yousef-tamer-5ab124357)
+
 ---
 
 
