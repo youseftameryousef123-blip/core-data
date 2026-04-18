@@ -164,6 +164,10 @@ The analysis aims to support decisions such as:
 | Ahmed Abd Elhay | Data Modeling | [Email](mailto:aelgawit@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-abd-elhay-b2811b3a8) |
 | Sama Hussien | Data Analyst | [Email](mailto:semsemaa10a@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sama-hussien-2b8384389) |
 
+**Yousef Tamer**  
+Email: youseftameryousef123@gmail.com  
+LinkedIn: [Yousef Tamer](https://www.linkedin.com/in/yousef-tamer-5ab124357)
+
 ---
 
 
