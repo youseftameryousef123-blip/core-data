@@ -1,0 +1,34 @@
+Project: Real Estate Data Analysis
+
+Overview:
+This project involves building a SQL-based data model for real estate listings.
+
+Steps:
+
+* Cleaned and prepared data
+* Designed a Star Schema (Fact + Dimension tables)
+* Loaded data into SQL Server
+* Created analytical views for reporting
+
+Tables:
+
+* fact_listings: contains all numerical data (price, area, rooms, etc.)
+* dim_location: locations
+* dim_seller: seller types
+* dim_payment: payment methods
+* dim_finishing: finishing levels
+
+Views:
+
+* vw_location_summary: average, min, max price per location
+* vw_finishing_impact: price impact by finishing
+* vw_seller_comparison: comparison between seller types
+* vw_price_tier_breakdown: price distribution
+* vw_offplan_vs_ready: property status analysis
+* vw_decade_trend: price trend over time
+* vw_listings_full: full joined dataset for Power BI
+
+Notes:
+
+* Data is structured using Star Schema
+* Ready For Power PI
